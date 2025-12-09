@@ -1,10 +1,14 @@
 {
   "mappings": [
+    "/content/edsemea/:/",
+    "/content/edsemea/configuration:/.helix/config.json",
+    "/content/edsemea/metadata:/metadata.json",
     "/content/edstest/:/",
     "/content/edstest/configuration:/.helix/config.json",
     "/content/edstest/metadata:/metadata.json"
   ],
   "includes": [
      "/content/edstest/",
+    "/content/edsemea/"
   ]
 }
