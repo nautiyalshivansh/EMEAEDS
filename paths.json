@@ -1,9 +1,9 @@
 {
   "mappings": [
     "/content/edstest/:/",
-    "/content/aem-boilerplate/:/",
-    "/content/aem-boilerplate/configuration:/.helix/config.json",
-    "/content/aem-boilerplate/metadata:/metadata.json"
+    "/content/edstest/:/",
+    "/content/edstest/configuration:/.helix/config.json",
+    "/content/edstest/metadata:/metadata.json"
   ],
   "includes": [
      "/content/edstest/",
