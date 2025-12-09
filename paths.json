@@ -1,7 +1,6 @@
 {
   "mappings": [
     "/content/edstest/:/",
-    "/content/edstest/:/",
     "/content/edstest/configuration:/.helix/config.json",
     "/content/edstest/metadata:/metadata.json"
   ],
