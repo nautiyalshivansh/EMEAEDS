@@ -6,6 +6,5 @@
   ],
   "includes": [
      "/content/edstest/",
-    "/content/aem-boilerplate/"
   ]
 }
