@@ -6,11 +6,11 @@
     "/content/edstest/:/",
     "/content/edstest/configuration:/.helix/config.json",
     "/content/edstest/metadata:/metadata.json",
-    "/content/experience-fragments/eds-demo"
+    "/content/experience-fragments/eds-demo/:/"
   ],
   "includes": [
      "/content/edstest/",
     "/content/edsemea/",
-    "/content/experience-fragments/eds-demo"    
+    "/content/experience-fragments/eds-demo/"    
   ]
 }
