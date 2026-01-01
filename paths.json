@@ -5,10 +5,12 @@
     "/content/edsemea/metadata:/metadata.json",
     "/content/edstest/:/",
     "/content/edstest/configuration:/.helix/config.json",
-    "/content/edstest/metadata:/metadata.json"
+    "/content/edstest/metadata:/metadata.json",
+    "/content/experience-fragments/eds-demo"
   ],
   "includes": [
      "/content/edstest/",
-    "/content/edsemea/"
+    "/content/edsemea/",
+    "/content/experience-fragments/eds-demo"    
   ]
 }
