@@ -21,7 +21,13 @@
           "name": "keywords",
           "multi": true,
           "label": "Keywords"
-        }
+        },
+         {
+         "name": "manualpublisheddate",
+         "label": "Manual Publish Date",
+         "multi": false,
+         "valueType": "Date"
+      }
       ]
     }
   ]
