@@ -1,0 +1,21 @@
+{
+  "title": "Page Metadata",
+  "id": "page-metadata",
+  "fields": [
+    {
+      "name": "title",
+      "label": "Title",
+      "valueType": "string"
+    },
+    {
+      "name": "description",
+      "label": "Description",
+      "valueType": "string"
+    },
+    {
+      "name": "manualpublisheddate",
+      "label": "Manual Publish Date",
+      "valueType": "string"
+    }
+  ]
+}
