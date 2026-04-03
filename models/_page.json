@@ -26,7 +26,7 @@
          "name": "manualpublisheddate",
          "label": "Manual Publish Date",
          "multi": false,
-         "valueType": "Date"
+         "valueType": "string"
       }
       ]
     }
